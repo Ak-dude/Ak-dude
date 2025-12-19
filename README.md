@@ -1,3 +1,4 @@
+```
 # Hello! — I'm Ak-dude 👋
 
 - I like programming
@@ -9,3 +10,4 @@
   - Crashvault — An open source error tracker · https://github.com/arkattaholdings/crashvault
 
 Connect: [GitHub](https://github.com/Ak-dude) · email: thunderedstudios605@gmail.com
+```
