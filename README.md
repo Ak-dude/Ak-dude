@@ -1,5 +1,5 @@
 ```
-# Hello! — I'm Ak-dude 👋
+ Hello! — I'm Ak-dude 👋
 
 - I like programming
 - sometimes I like to mess around with hardware
